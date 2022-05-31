@@ -1,4 +1,4 @@
-	Internet
+Internet
 
 Ich bin oft online, weil ich nach Schule am Computer lerne. Am Internet
 kann man viel Hilfe bekommt. Ich surfe viel, schreibe ich E-Mails, spiele,
@@ -9,3 +9,5 @@ viele alte Arcade-Spielen gemacht. Mein Vater ist auch programierer von Beruf.
 Er hilft mir sehr. Es stört mich, dass die Computer immere zur schlimmsten Zeit
 kaputtgehen sind. Mein Computer ist letzte Woche auch kaputtgegangen. Ich finde
 es aber nicht gut, dass es so viele Viren gibt.
+Im Internet lese ich vile Bücher über Programmierung.
+installieren
